@@ -1,5 +1,5 @@
 status = [
-  "aragilar.pytest-mpi",
+  "tmweigand.pytest-mpi",
   "codecov/patch",
   "codecov/project",
 ]

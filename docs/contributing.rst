@@ -3,19 +3,19 @@
 Contributing to pytest-mpi
 ##########################
 We welcome contributions to pytest-mpi, subject to our
-`code of conduct <https://github.com/aragilar/pytest-mpi/blob/master/code_of_conduct.md>`_
+`code of conduct <https://github.com/tmweigand/pytest-mpi/blob/master/code_of_conduct.md>`_
 whether it is improvements to the documentation or examples, bug reports or code
 improvements.
 
 Reporting Bugs
 --------------
-Bugs should be reported to https://github.com/aragilar/pytest-mpi. Please
+Bugs should be reported to https://github.com/tmweigand/pytest-mpi. Please
 include what version of Python this occurs on, as well as which operating
 system. Information about your h5py and HDF5 configuration is also helpful.
 
 Patches and Pull Requests
 -------------------------
-The main repository is https://github.com/aragilar/pytest-mpi, please make pull
+The main repository is https://github.com/tmweigand/pytest-mpi, please make pull
 requests against that repository, and the branch that pull requests should be
 made on is master (backporting fixes will be done separately if necessary).
 
